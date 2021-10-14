@@ -163,15 +163,11 @@ body {
     gap: 50px;
 
 }
-
-
 @media only screen and (max-width: 600px) {
     .site .component {
         display: block;
     }
 }
-
-
 .site .component .text {
 
     text-align: justify left;
@@ -180,7 +176,6 @@ body {
     justify-content: center;
     min-height: 600px;
     padding: 30px;
-
 }
 
 @media only screen and (max-width: 600px) {
@@ -189,7 +184,6 @@ body {
 
     }
 }
-
 .site .component .text h1 {
     color: white;
     font-weight: 700;
@@ -198,14 +192,12 @@ body {
     margin-bottom: 23px;
 
 }
-
 .site .component .text p {
     color: white;
     font-weight: 400;
     font-size: 12px;
     line-height: 160%;
 }
-
 .site .component .box .try {
 
     height: 48px;
